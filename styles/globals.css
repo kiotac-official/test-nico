@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.react-multi-carousel-item {
+  width: auto !important;
+}
+.image-width{
+  width: 258px !important;
+}
